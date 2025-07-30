@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Mohitha Nandi
 
-<!--
-**mohithanandi/mohithanandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI/ML & GenAI Enthusiast | Builder of Prompt-Driven Applications  
+🚀 Focused on Prompt Engineering • LLM APIs • Minimal-code AI Tools  
+💡 Hackathon Contributor | GenAI Explorer | Fast Learner
 
-Here are some ideas to get you started:
+## 🛠️ What I Build
+- AI-powered journaling app [MoodWave](https://github.com/mohithanandi/MoodWave)
+- Credit Card Segmentation using Unsupervised ML
+- Music Recommendation System with R & Shiny
+- E-healthcare platform designed during national hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+Generative AI · Prompt Engineering · LLM APIs · LangChain · AI UX Flows
+
+📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/mohithanandi)
